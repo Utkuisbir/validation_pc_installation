@@ -1,2 +1,2 @@
 # validation_pc_installation
-Prepare pc for test by installing necessary packets like SSH
+Prepare pc for test by installing necessary packages like SSH
